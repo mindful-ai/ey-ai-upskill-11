@@ -32,7 +32,7 @@ from fastmcp import FastMCP
 FLOWISE_API_URL = (
     "https://cloud.flowiseai.com/"
     "api/v1/prediction/"
-    "c7f91a50-e934-4842-80a8-539738a31cd9"
+    "034ff02d-e9e0-4003-937d-6c37ea84e157"
 )
 
 
